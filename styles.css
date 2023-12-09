@@ -58,7 +58,7 @@ body {
   transition: max-height 1s;
 }
 
-#imgBox imgl {
+#imgBox img {
   width: 100%;
   padding: 10px;
 }
